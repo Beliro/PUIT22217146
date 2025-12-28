@@ -1,0 +1,24 @@
+# This file tells Git which files to IGNORE.
+
+# Ignore the virtual environment folder 
+venv/
+Beliro_env/
+env/
+.env/
+.venv/
+
+# Ignore Python cache files (generated automatically)
+__pycache__/
+*.pyc
+
+
+# --- SECURITY: IGNORE SECRETS ---
+.env
+env/
+venv/
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
