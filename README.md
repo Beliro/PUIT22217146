@@ -1,6 +1,6 @@
 Hey there, Louis here!
 
-This repository is a result of a class assigment/project studies, issued by Mr Harry Atieku-Boateng (@hatieku-boateng),
+This repository is a result of a class assigment/project studies, issued by Mr Harry Atieku-Boateng - @hatieku-boateng,
 Pentecost University, for the level 400 IT class.
 This aim to level up each and everyone's Data analytical skills.
 
