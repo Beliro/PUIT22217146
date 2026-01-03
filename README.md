@@ -20,7 +20,7 @@ This project evolved through three distinct distinct stages. While this written 
 ---
 
 ## 1. Introduction
-The objective of this project was to develop a machine learning model capable of predicting real estate listing prices in New York City. By analyzing a dataset of listing attributes—including location, room type, and reviews—the goal was to create an automated "Real Estate Advisor" that estimates fair market value.
+The objective of this project was to develop a machine learning model capable of predicting real estate listing prices in New York City. By analyzing a dataset of listing attributes including location, room type, and reviews, the goal was to create an automated "Real Estate Advisor" that estimates fair market value.
 
 The project followed a standard data science pipeline: **Exploratory Data Analysis (EDA)**, **Data Cleaning**, **Feature Engineering**, and **Model Training**. This report documents the **Random Forest** implementation (Version 2).
 
