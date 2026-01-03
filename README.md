@@ -1,6 +1,6 @@
 # NYC Real Estate Price Predictor: Project Report
 
-**Student Name:** [Louis-Marie Belfort Nzitongo Libero]
+**Student Name:** Louis-Marie Belfort Nzitongo Libero
 **Course:** Information Technology
 **Date:** Saturday, January 3rd, 2026
 
